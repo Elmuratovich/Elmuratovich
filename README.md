@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=elmuratovich"/>
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmuratovich"/>
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmuratovich&layout=donut-vertical)](https://github.com/elmuratovich/github-readme-stats)
