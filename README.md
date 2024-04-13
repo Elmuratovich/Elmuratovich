@@ -1,4 +1,4 @@
-### I'm Makhmud 👋
+
 
 <!--
 **Elmuratovich/Elmuratovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 <p style="display: block;max-height: 100px; "> 
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmuratovich&show_icons=true&locale=en&layout=compact" alt="top langs" />
-    <img align="right " src="https://github-readme-stats.vercel.app/api?username=elmuratovich&show_icons=true&locale=en" alt="my stats" />
 </p>
