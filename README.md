@@ -1,1 +1,2 @@
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmuratovich&show_icons=true&locale=en&layout=compact" alt="top langs" />
+<h1 align="center">Hi 👋, I'm Makhmud Kuzikaev</h1>
+<h3 align="center">Full Stack Web Developer</h3>
